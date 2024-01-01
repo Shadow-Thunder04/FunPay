@@ -1,5 +1,5 @@
 <h1 align="center">
-    🌐 FunPay Server 🌐
+    🌐 FunPay erver 🌐
 </h1>
 
 <h4 align="center">
