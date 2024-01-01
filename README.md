@@ -1,5 +1,5 @@
 <h1 align="center">
-    FunPayServer
+    🌐 FunPay Server 🌐
 </h1>
 
 <h4 align="center">
